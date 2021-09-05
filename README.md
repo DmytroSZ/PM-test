@@ -1,6 +1,7 @@
 # PM-test
 Dataset - Google Analytics Sample.
-Main Part - Final Result with Revenue Analytics and Visit Analytics.
+Main branch:
+Main - Final Result with Revenue Analytics and Visit Analytics.
 Revenue Analytics - Connection + Null Checks + Revenue Analytics .
 Visit Analytics - Connection + Null Checks + Visit Analytics.
 
